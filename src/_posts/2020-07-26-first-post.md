@@ -9,7 +9,7 @@ categories: Test
 
 <h2>First post, just setting up the netlify/github stuff.</h2>
 
-
+<section><p><span class="marginnote"><img src="https://res.cloudinary.com/kentasy/image/upload/v1488400289/Connected-Thoughts/happiness-is-fleeting_ijr3jh.gif"/></span>OMG the site is live onNetlify with continuous build integration!</p><section>
 
 <article>
 <section><p>his extensive use of sidenotes.<label for="sn-extensive-use-of-sidenotes" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-extensive-use-of-sidenotes" class="margin-toggle"/><span class="sidenote">This is a sidenote.</span> Sidenotes are like footnotes, except they don’t force the reader to jump their eye to the bottom of the page, but instead display off to the side in the margin. Perhaps you have noticed their use in this document already. You are very astute.</p>
