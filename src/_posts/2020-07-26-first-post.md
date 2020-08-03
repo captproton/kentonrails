@@ -7,6 +7,8 @@ categories: Test
 
 <h1> _Boom_  </h1>
 
+<h2>First post, just setting up the netlify/github stuff.</h2>
+
 
 
 <article>
