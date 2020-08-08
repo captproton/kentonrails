@@ -16,11 +16,21 @@ categories: Bridgetown, CSS
   <section>
       <p>I thought using Bridgetown RB would make this site much easier to make and update, but I find myself falling
        down yet another rabbit hole of arcane commands and quirks. As far as a static site generator, it seems quite
-        good and it has been a useful exercise. Plus, there is the added bonus of the site ebing able to handle the
-        massive traffic if a post goes viral! (Instead of 2 or 3 readers, maybe 12 people! :))<label for="sn-post-goes-viral" class="margin-toggle 
+        good and it has been a useful exercise. Plus, there is the added bonus of the site being able to handle the
+        massive traffic if a post goes viral! (Instead of 2 or 3 readers, maybe 12 people! :))<label for="sn-post-goes-viral" 
+        class="margin-toggle 
       sidenote-number"></label><input type="checkbox" id="sn-post-goes-viral" class="margin-toggle"/>
       <span class="sidenote">He wishes he had 3 readers -ed.</span></p>
   </section>
   <section>
       <p>Oh well, onwards. </p>
   </section>
+
+
+
+<section><p>
+  
+  OMG the site is live on Netlify with continuous build integration! (almost) Still have a few  issues....
+  <label for="mn-happiness-is-fleeting" class="margin-toggle">&#8853;</label><input type="checkbox" id="mn-happiness-is-fleeting" class="margin-toggle"/><span class="marginnote"><img src="https://res.cloudinary.com/kentasy/image/upload/v1488400289/Connected-Thoughts/happiness-is-fleeting_ijr3jh.gif"  alt="Happiness is Fleeting"/>Sometimes the happy moments don't last long.</span>
+</p><section>
+  
