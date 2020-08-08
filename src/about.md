@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
+title: A bunch of disconnected thoughts (dots) on Rails, Ruby, Football and other stuff.
 permalink: /about/
 ---
 
-This is the basic Bridgetown site template. You can find out more info about customizing your Bridgetown site, as well as basic Bridgetown usage documentation at [bridgetownrb.com](https://bridgetownrb.com/)
+This is a collection of ideas, thoughts, tututorials and reminders with a focus on creating sites using the Ruby on Rails framework. There are also little tips and tricks and ideas about other aspects of web dev and life.
 
-You can find the source code for Bridgetown at GitHub:
-[bridgetownrb](https://github.com/bridgetownrb) /
-[bridgetown](https://github.com/bridgetownrb/bridgetown)
+This particular site is built using Bridgetownrb with the Tufte css used for the overall look.

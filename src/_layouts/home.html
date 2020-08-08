@@ -2,12 +2,10 @@
 layout: default
 ---
 
-<h1>Home Page</h1>
-
-{{ content }}
+<!-- {{ content }} -->
 
   {% for post in site.posts %}
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
       <p>{{ post.content }}</p>
   {% endfor %}
   
