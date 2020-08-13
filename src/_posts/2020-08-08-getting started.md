@@ -7,7 +7,7 @@ categories: Bridgetown, CSS
 
 <h2>A journey of a thousand apps begins with a single deploy.</h2>
 {{page.date | date_to_long_string: "ordinal", "US" }}
-  <section id="swup" class="transition-fade">
+  <section>
       <p>Css is hard. It seems so easy at first but then there are sooooo many quirks, bugs and browser specific 
       strangeness. but when it works, it is glorious. <label for="sn-it-is-glorious" class="margin-toggle 
       sidenote-number"></label><input type="checkbox" id="sn-it-is-glorious" class="margin-toggle"/>
@@ -27,8 +27,9 @@ categories: Bridgetown, CSS
 
       <p>
   
-        OMG the site is live on Netlify with continuous build integration! (almost) Still have a few  issues....
+        OMG the site is live on Netlify with continuous build integration! Site auto deploys with every commit. Veerrryy niiiiicee.
         <label for="mn-happiness-is-fleeting" class="margin-toggle">&#8853;</label><input type="checkbox" id="mn-happiness-is-fleeting" 
-        class="margin-toggle"/><span class="marginnote"><img src="https://res.cloudinary.com/kentasy/image/upload/v1488400289/Connected-Thoughts/happiness-is-fleeting_ijr3jh.gif"  alt="Happiness is Fleeting"/>Sometimes the happy moments don't last long.</span>
-    </p><section>
+        class="margin-toggle"/><span class="marginnote"><img src="https://res.cloudinary.com/kentasy/image/upload/v1488400289/Connected-Thoughts/happiness-is-fleeting_ijr3jh.gif"  
+        alt="Happiness is Fleeting"/>Sometimes the happy moments don't last long.</span>
+    </p></section>
   
