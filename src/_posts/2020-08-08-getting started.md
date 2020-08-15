@@ -2,7 +2,7 @@
 layout: post
 title:  "Getting Started"
 date:   2020-08-08 
-categories: Bridgetown, CSS
+categories: CSS
 ---
 
 <h2>A journey of a thousand apps begins with a single deploy.</h2>
