@@ -22,16 +22,16 @@ categories: CSS
     Maybe not the best way, but it is a great way to get started. For any element on a page, add a div tag and a class.
   </p>
 <pre><code>
-  &lt;div class="important stuff"&gt;A super quick way... </div>
+  &lt;div class="big stuff"&gt;A super quick way... </div>
 </code></pre>
 
   <p>
-    This wraps that div with two classes called "important" and "stuff". In your CSS file, add each class with a dot in front, the curly braces and keep all your declarations in alphabetical order.
+    This wraps that div with two classes called "big" and "stuff". In your CSS file, add each class with a dot in front, the curly braces and keep all your declarations in alphabetical order.
   </p>
   
 <pre><code>
   
-  .important {
+  .big {
       background-color: lightgray;
       width: 55%;
   }
@@ -48,9 +48,9 @@ categories: CSS
   </p>
     
     <pre><code>
-      div.important {
-          background: lightgray;
-          width: 55%;
+      div.stuff {
+          color: green;
+          margin-left: auto;index
       }
       
     </code></pre>
