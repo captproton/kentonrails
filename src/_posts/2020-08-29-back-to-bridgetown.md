@@ -42,5 +42,5 @@ categories: Bridgetown
       bundle exec bridgetown serve
     </code></pre>
     
-    <p>to launch the bridgetown server. (Smacks head) I'm embarrassed to say how long it took me to figure out that little gem.</p>
+    <p>to launch the bridgetown server. (Smacks head) I'm embarrassed to say how long it took me to figure out that little tidbit.</p>
 </section>
