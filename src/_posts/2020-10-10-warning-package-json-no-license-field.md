@@ -29,7 +29,7 @@ categories: "Web Dev"
     
   <p>
     If you want to check your current Rails project, look for the package.json file and open it up and look for
-    {"private": true,} in the file, probably the second line. If you see that, all is good in your current 
+    {"private": true,} in the file, probably the second or third line. If you see that, all is good in your current 
     project. This means that npm/yarn won't publish your project publicly. The warning message
     "warning ../package.json: No license field" <label for="sn-trying-to-warn" class="margin-toggle 
       sidenote-number"></label><input type="checkbox" id="sn-trying-to-warn" class="margin-toggle"/>
