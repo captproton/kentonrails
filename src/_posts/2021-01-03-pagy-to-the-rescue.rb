@@ -36,15 +36,6 @@ categories: "Web Dev"
 </p>
   
 </section>
-  
-  
-  
-  
-<label for="mn-armor" class="margin-toggle">&#8853;</label>
-<input type="checkbox" id="mn-armor" class="margin-toggle"/>
-<span class="marginnote">
-<img src="https://res.cloudinary.com/kentasy/image/upload/v1602345846/Connected-Thoughts/armor.gif" alt="alt text"/>text goes here
-</span>
    
     
 
