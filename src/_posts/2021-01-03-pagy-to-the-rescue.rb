@@ -20,15 +20,17 @@ categories: "Web Dev"
 
 <figure>
   <label for="mn-pagy-code" class="margin-toggle">&#8853;</label><input type="checkbox" id="mn-exports-imports" class="margin-toggle"/><span class="marginnote">Pagy code to add to Rails.</span>
-          <img src="https://res.cloudinary.com/kentasy/image/upload/v1609726669/Connected-Thoughts/Pagy_Code.png" alt="Adding pagination to Ruby On Rails using the Pagy gem" />
+          <img src="https://res.cloudinary.com/kentasy/image/upload/v1609795712/Connected-Thoughts/Pagy_code.png" alt="Adding pagination to Ruby On Rails using the Pagy gem" />
 </figure>
 
 <p>
-  The config file is needed if you use Bootstrap and also helps with the translations usuing I18n. Apparently using this I18n in the config file slows down the Pagy gem but I did not notice a terrible decrease in performance on my small site. 
+  The config file is needed if you use Bootstrap and also helps with the translations using I18n. Apparently using this I18n in the config file slows down the Pagy gem but I did not notice a terrible decrease in performance on my small site. 
 </p>
 
 <p>
-  You will note in the index action of the controller, you add a Pagy instance variable which keeps track on the pagination and passes this variable to the view. You can see this variable in use at the bottom of the view. Pagy also wraps up the call to the database and this is what is stored in the pagy varaible. In this case, the followups variable works as normal in a typical Rails app.
+  You will note in the index action of the controller, you add a Pagy instance variable which keeps track on the pagination and passes this variable to the view. You can see this variable in use at the bottom of the view. <label for="sn-pagy-nav" class="margin-toggle 
+      sidenote-number"></label><input type="checkbox" id="sn-pagy-nav" class="margin-toggle"/>
+      <span class="sidenote">Note the extra = sign after <%= in the code. This takes the raw HTML returned by Pagy and sanitizes it for use on the page in your Rails view.</span>Pagy also wraps up the call to the database and this is what is stored in the pagy varaible. In this case, the followups variable works as normal in a typical Rails app.
 </p>
 
 <p>
